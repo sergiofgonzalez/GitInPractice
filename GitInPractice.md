@@ -6,4 +6,4 @@ Added something to the file.
 This is an exercise from the book Git in Practice, which I bought some time ago.
 
 I've added a new line
-Changes that i have already committed.
+Changes that I have already committed.
